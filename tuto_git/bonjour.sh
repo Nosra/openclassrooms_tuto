@@ -1,2 +1,2 @@
 #/bin/bash
-echo "Bonjour !"
+echo "Bonjour je suis en train de faire un exercice"
