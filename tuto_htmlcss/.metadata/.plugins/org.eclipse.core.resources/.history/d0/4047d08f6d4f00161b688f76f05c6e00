@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Mon CV</title>
+		<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div>
+
+			<header id="titleMenu">
+				<h1 id="home">Mon CV</h1>
+				<h1 id="exp">Expériences</h1>
+				<h1 id="comp">Compétences</h1>
+				<h1 id="forma">Formations</h1>
+			</header>
+
+			<nav>
+				<p>
+					<a href="#">MonCV</a>
+				</p>
+				<p>
+					<a href="#">Expériences</a>
+				</p>
+				<p>
+					<a href="#">Compétences</a>
+				</p>
+				<p>
+					<a href="#">Formations</a>
+				</p>
+			</nav>
+
+			<div id="moncv">
+				<div>
+	<header>
+		Expériences
+	</header>
+	<section>
+		<aside>
+			Janvier 2016 à Janvier 2016
+		</aside>
+		<article>
+			<header>
+				Administrateur réseaux
+				ROOT’s Informatique
+			</header>
+			<div>
+				Administration / maintenance des équipements réseaux
+				Installation d'équipements (Antenne, switch, routeur)
+				Création d'une passerelle virtuelle (Pfsense)
+				Mise en place d'un monitoring des relais et antenne
+				Développement d'un watchdog en Python
+			</div>
+			<footer>
+				Contrat d'apprentissage Alès 30 (France)
+			</footer>
+		</article>
+	</section>
+	<section>
+		Technicien de Maintenance Informatique
+		ROOT’s Informatique
+		Octobre 2015 à Octobre 2015
+		Préparation et installation de machines informatiques sous Windows automatisées ( sysprep / ghost )
+		Traitement des éléments malveillants
+		Assistance téléphonique, accueille clients et dépannage à distance
+		Support d'assistance de niveau 1
+		Stage Alès 30 (France)
+	</section>
+	<section>
+		Technicien de Maintenance Informatique
+		Cybernet
+		Juillet 2015 à Juillet 2015
+		Préparation et installation de machines informatiques sous Windows automatisées ( sysprep / ghost )
+		Installation d'un serveur WSUS Offline update
+		Technicien de niveau 1 sur site et à distance
+		Stage Alès 30 (France)
+	</section>
+	<section>
+		Formateur / Assistant technicien informatique
+		Association Solid@rnet
+		2013 à 2013
+		Apprentissage des méthodes bureautiques avec la suite office et
+		initiation a la bonne gestion de Windows
+		Aide à l'administration et maintenance du réseau et du parc informatique
+		Stage Alès 30 (France)
+	</section>
+</div>
+			</div>
+
+			<footer>
+				<p>
+					&copy; Copyright  by Arnaud
+				</p>
+			</footer>
+		</div>
+
+	</body>
+</html>

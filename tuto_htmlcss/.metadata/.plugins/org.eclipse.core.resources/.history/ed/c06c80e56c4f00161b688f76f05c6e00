@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Mon CV</title>
+		<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div>
+			
+			<header id="titleMenu">
+				<h1>>Mon CV</h1>
+					Expériences
+					Compétences
+					Formations
+				
+			</na
+				
+			</header>
+			<nav>
+				<p>
+					<a href="#">MonCV</a>
+				</p>
+				<p>
+					<a href="#">Expériences</a>
+				</p>
+				<p>
+					<a href="#">Compétences</a>
+				</p>
+				<p>
+					<a href="#">Formations</a>
+				</p>
+			</nav>
+
+			<div id="moncv">
+								
+			</div>
+
+			<footer>
+				<p>
+					&copy; Copyright  by Arnaud
+				</p>
+			</footer>
+		</div>
+
+	</body>
+</html>

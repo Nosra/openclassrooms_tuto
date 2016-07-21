@@ -30,25 +30,22 @@ Apprentissage des méthodes bureautiques avec la suite office et
 initiation a la bonne gestion de Windows
 Aide à l'administration et maintenance du réseau et du parc informatique
 Stage Alès 30 (France)
+
 Compétences
+
 Informatiques
 Système d'exploitation (Linux, Windows)
 Base de la virtualisation
 Gestion des réseaux informatiques
 Recherches / Docummentation
+
 Langage informatique
 HTML/CSS
-    
-JavaScript
-    
+JavaScript 
 PHP
-    
 Python 2.7
-    
 Ruby
-    
-C / C++
-    
+C / C++    
 D
     
 Formations

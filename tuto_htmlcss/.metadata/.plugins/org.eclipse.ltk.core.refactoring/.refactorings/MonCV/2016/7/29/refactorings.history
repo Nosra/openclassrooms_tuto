@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MonCV/test1&apos; to &apos;test1.html&apos;" description="Rename resource &apos;test1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="test1" name="test1.html" stamp="1469122686164" updateReferences="true"/>
+</session>
