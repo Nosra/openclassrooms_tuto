@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+#bodyhtml {
+	width: 800px;
+	margin: auto;
+	color: #33adff;
+	display: block;
+}
+#menu {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#menu ul {
+	display: flex;
+	list-style-type: none;
+}
+#menu ul li {
+	margin: 10px;
+}
+
+
+#experence:hover
+{
+	display:none;
+}
+.exp
+.comp
+.forma

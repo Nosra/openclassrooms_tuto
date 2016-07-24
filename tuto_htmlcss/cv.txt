@@ -1,63 +1,52 @@
-Expériences
-Administrateur réseaux
-ROOT’s Informatique
-Janvier 2016 à Janvier 2016
-Administration / maintenance des équipements réseaux
-Installation d'équipements (Antenne, switch, routeur)
-Création d'une passerelle virtuelle (Pfsense)
-Mise en place d'un monitoring des relais et antenne
-Développement d'un watchdog en Python
-Contrat d'apprentissage Alès 30 (France)
-Technicien de Maintenance Informatique
-ROOT’s Informatique
-Octobre 2015 à Octobre 2015
-Préparation et installation de machines informatiques sous Windows automatisées ( sysprep / ghost )
-Traitement des éléments malveillants
-Assistance téléphonique, accueille clients et dépannage à distance
-Support d'assistance de niveau 1
-Stage Alès 30 (France)
-Technicien de Maintenance Informatique
-Cybernet
-Juillet 2015 à Juillet 2015
-Préparation et installation de machines informatiques sous Windows automatisées ( sysprep / ghost )
-Installation d'un serveur WSUS Offline update
-Technicien de niveau 1 sur site et à distance
-Stage Alès 30 (France)
-Formateur / Assistant technicien informatique
-Association Solid@rnet
-2013 à 2013
-Apprentissage des méthodes bureautiques avec la suite office et 
-initiation a la bonne gestion de Windows
-Aide à l'administration et maintenance du réseau et du parc informatique
-Stage Alès 30 (France)
+			<section id="Formations">
+				<header>
+					<h2>Formations</h2>
+				</header>
+				<article>
+					<header>
+						<h3>Première année BTS SN IR - Systèmes Numériques Informatique et Réseaux</h3>
+					</header>
 
-Compétences
 
-Informatiques
-Système d'exploitation (Linux, Windows)
-Base de la virtualisation
-Gestion des réseaux informatiques
-Recherches / Docummentation
 
-Langage informatique
-HTML/CSS
-JavaScript 
-PHP
-Python 2.7
-Ruby
-C / C++    
-D
-    
-Formations
-Première année BTS SN IR - Systèmes Numériques Informatique et Réseaux
+
+
+
 Lycée technologique régional Dhuoda- Nimes 30
+<footer>
 2014 à 2015
+</footer>
+</article>
+<header>
+						<h3>
 Bac Pro SEN - Système Electronique et Numérique
+</h3>
+					</header>
 LEP Jules Raimu - Nimes 30
+<footer>
 2012 à 2014
+</footer>
+</article>
+<article>
+<header>
+						<h3>
 Habilitation Électrique BR Chargé d’interventions générales en Basse Tentions
+</h3>
+					</header>
 LEP Jules Raimu - Nîmes (30)
+<footer>
 2012 à 2014
+</footer>
+</article>
+<article>
+<header>
+						<h3>
 BIA - Brevet d'initiation aéronautique
+</h3>
+					</header>
 LEP Jules Raimu - Nîmes (30)
+<footer>
 2013 à 2013
+</footer>
+</article>
+</section>
